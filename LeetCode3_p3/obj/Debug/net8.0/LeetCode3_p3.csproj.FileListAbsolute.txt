@@ -1,0 +1,4 @@
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw8 Assignments\LeetCode3_p3\obj\Debug\net8.0\LeetCode3_p3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw8 Assignments\LeetCode3_p3\obj\Debug\net8.0\LeetCode3_p3.AssemblyInfoInputs.cache
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw8 Assignments\LeetCode3_p3\obj\Debug\net8.0\LeetCode3_p3.AssemblyInfo.cs
+C:\Users\kadin\Desktop\All Hw For Cs122\Hw8 Assignments\LeetCode3_p3\obj\Debug\net8.0\LeetCode3_p3.csproj.CoreCompileInputs.cache
